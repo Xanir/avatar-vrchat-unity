@@ -17,3 +17,7 @@ git clone <repo link>
 cd <repo name>
 git lfs install
 ```
+
+Load the project into Unity
+
+Enjoy!
